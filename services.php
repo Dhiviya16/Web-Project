@@ -160,7 +160,7 @@
 			<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 			<li><a href="#"><i class="fa fa-instagram"></i></a></li>
 			<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-		</u1>
+		</ul>
 </div>
 
 	<div class="footer-bottom">
